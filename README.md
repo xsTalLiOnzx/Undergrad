@@ -1,2 +1,1 @@
-# Undergrad
-Simple Java Programs
+# Simple Projects From First Year Undergrad
